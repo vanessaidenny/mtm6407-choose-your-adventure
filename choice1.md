@@ -1,5 +1,5 @@
 
-choice1: [open the mansion door](choice1.md)
+
 <br/>
 
 > In the heart of the abandoned mansion, every step echoed with secrets.  The air, thick with the scent of decay, carried faint, ghostly whispers.  
