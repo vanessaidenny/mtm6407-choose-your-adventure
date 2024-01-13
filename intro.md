@@ -18,3 +18,6 @@
 <br/>
 
 ## 💀 ***What to do next?***
+
+
+Choice 2: [Consult the Town's History](choice2.md)
