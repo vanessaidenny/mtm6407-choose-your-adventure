@@ -1,4 +1,3 @@
-## open the mansion door
 
 choice1: [open the mansion door](choice1.md)
 <br/>
