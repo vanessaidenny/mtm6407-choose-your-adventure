@@ -18,3 +18,5 @@
 <br/>
 
 ## 💀 ***What to do next?***
+
+Choice 3: [Walk around the mansion](choice3.md)
