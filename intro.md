@@ -19,6 +19,16 @@
 
 ## 💀 ***What to do next?***
 
+<br/>
+
 choice1: [open the mansion door](choice1.md)
+
+<br/>
+
 Choice 2: [Consult the Town's History](choice2.md)
+
+<br/>
+
 Choice 3: [Walk around the mansion](choice3.md)
+
+<br/>
